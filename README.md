@@ -349,7 +349,7 @@
                     </div>
                     
                     <button type="submit" class="btn submit-btn">Ուղարկել</button>
-                </form>
+               
 
                 <div class="call-container">
                     <p style="color: #7f8c8d; font-size: 0.95rem;">Ունե՞ք հարցեր կամ շտապ պատվեր։</p>
